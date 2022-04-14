@@ -25,7 +25,7 @@ const Nav = () => {
                             Home
                         </li>
                         <li className=' duration-300 hover:text-violet-300 hover:border-b-2 border-violet-300'>
-                            Home
+                            Homeasdf
                         </li>
                         <li>
                             <div className="p-3 mx-auto bg-white hover:bg-violet-300 text-black hover:text-white duration-300 rounded-xl shadow-lg flex items-center space-x-4">
